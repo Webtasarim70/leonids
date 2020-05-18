@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: eekinci 
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Günlük"
+  bio: "Hayata dair paylaşımlar."
   email:
   disqus-shortname:
   twitter: #username
