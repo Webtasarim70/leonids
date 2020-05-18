@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: https://webtasarim70.github.io/leonids
+title: Blog
+email: yunusemrex@gmail.com
+description: eekinci.com Blog
+url: https://webtasarim70.github.io/blog
 keywords: ["blog", "jekyll"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Istanbul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
