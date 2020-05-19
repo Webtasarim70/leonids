@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: eekinci 
+  name: eekinci
   avatar: e-logo.png
   job: "Günlük"
   bio: "Hayata dair paylaşımlar."
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: emrex
+  facebook: eekincicom
   google:
     plus: #username
     analytics:
@@ -48,13 +48,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: webtasarim70
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: eekincicom
   lastfm: #username
   tumblr: #username
   pinterest: #username
