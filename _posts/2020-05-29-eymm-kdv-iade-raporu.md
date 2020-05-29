@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Merhaba"
+date:   2020-05-18 12:58:57
+categories: [genel]
+comments: true
+tags: deneme, ilkpost
+
+---
+Merhaba hoş geldin bu benim ilk yazım.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDE1NzAwMTMxXX0=
+-->
