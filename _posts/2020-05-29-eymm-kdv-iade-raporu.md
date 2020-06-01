@@ -59,10 +59,11 @@ karşılaşılan sorunlar e seminer
 ## Diğerleri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jQHdrnhXxoc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[[Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)](https://www.youtube.com/watch?v=jQHdrnhXxoc)
+
+[video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDUyMDg5LDQxNzk0NDUwOSw4NDMyNT
-QxMjMsMTIwMDg5MzY1MCwxNDA0NzUyNjY5LC0yOTA0NTg5Mjks
-LTEyMDU1MDUzODksNzU1MDI5OTIwLC02ODY0NjQ4MCw0MTU3MD
-AxMzFdfQ==
+eyJoaXN0b3J5IjpbMTcxMjU2NTA1NCw0MTc5NDQ1MDksODQzMj
+U0MTIzLDEyMDA4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5
+LC0xMjA1NTA1Mzg5LDc1NTAyOTkyMCwtNjg2NDY0ODAsNDE1Nz
+AwMTMxXX0=
 -->
