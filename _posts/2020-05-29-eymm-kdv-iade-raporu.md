@@ -13,7 +13,7 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 <!--more-->
 ## e ymm mevzuatı
 - Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Genel Tebliği Yayımlanmıştır. [link](https://intvrg.gib.gov.tr/ymmrapor/genel_teblig.pdf)
-- Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Sirkü Yayımlanmıştır. 
+- Yeminli Mali Müşavirlik Tasdik Raporlarının Elektronik Ortamda Gönderilmesi Hakkında Sirkü Yayımlanmıştır. [link](https://intvrg.gib.gov.tr/ymmrapor/eymm_sirku.pdf)
 
 
 
@@ -43,6 +43,6 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEzNTQ1MjksLTEyMDU1MDUzODksNz
-U1MDI5OTIwLC02ODY0NjQ4MCw0MTU3MDAxMzFdfQ==
+eyJoaXN0b3J5IjpbLTY2NzE1MTUxMSwtMTIwNTUwNTM4OSw3NT
+UwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
 -->
