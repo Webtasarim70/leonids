@@ -48,10 +48,11 @@ Ankara YMM Odası e seminer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-LOQ0BiTM-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yPWFWbk6iGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - 1. kısım [linki](https://www.youtube.com/watch?v=yPWFWbk6iGw)
 - 2. kısım [linki](https://www.youtube.com/watch?v=-LOQ0BiTM-U&t=1s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxNDI1NDksODQzMjU0MTIzLDEyMD
-A4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1NTA1
-Mzg5LDc1NTAyOTkyMCwtNjg2NDY0ODAsNDE1NzAwMTMxXX0=
+eyJoaXN0b3J5IjpbNDE3OTQ0NTA5LDg0MzI1NDEyMywxMjAwOD
+kzNjUwLDE0MDQ3NTI2NjksLTI5MDQ1ODkyOSwtMTIwNTUwNTM4
+OSw3NTUwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
 -->
