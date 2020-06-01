@@ -9,6 +9,7 @@ tags: KDV, iade, KDV iadesi, e-ymm raporu
 ---
 internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar için okuyun >>
 
+![e ymm logoso](https://intvrg.gib.gov.tr/ymmside/sf/img/e-ymm-logo.jpg)
 
 <!--more-->
 ## e ymm mevzuatı
@@ -43,6 +44,6 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzE1MTUxMSwtMTIwNTUwNTM4OSw3NT
+eyJoaXN0b3J5IjpbLTI5MDQ1ODkyOSwtMTIwNTUwNTM4OSw3NT
 UwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
 -->
