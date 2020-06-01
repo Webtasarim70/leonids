@@ -43,8 +43,10 @@ e-YMM KDV İADESİ TASDİK RAPOR UYGULAMALARISorunlar ve Öneriler / YMM BURHAN 
 Ankara YMM Odası e seminer. 
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDg5MzY1MCwxNDA0NzUyNjY5LC0yOT
-A0NTg5MjksLTEyMDU1MDUzODksNzU1MDI5OTIwLC02ODY0NjQ4
-MCw0MTU3MDAxMzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQwMjkwMjEsMTIwMDg5MzY1MCwxND
+A0NzUyNjY5LC0yOTA0NTg5MjksLTEyMDU1MDUzODksNzU1MDI5
+OTIwLC02ODY0NjQ4MCw0MTU3MDAxMzFdfQ==
 -->
