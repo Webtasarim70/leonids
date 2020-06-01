@@ -17,12 +17,16 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 [sunum linki ](http://www.istanbulymmo.org.tr/dosyalar/sunumlar/20191218mehmetyildiz.pdf)
 e-YMM KDV İadesi Tasdik Raporu / YMM. Mehmet YILDIZ / 18 Aralık 2019, İstanbul YMM Odası
 
+## e-YMM KDV İADESİ TASDİK RAPOR UYGULAMALARI Sorunlar ve Öneriler sunumu
+[sunum linki ](http://www.bursaymmo.org.tr/dosyagonder/upload/e-kdv-sunum-1601-1579245381.pdf)
+e-YMM KDV İADESİ TASDİK RAPOR UYGULAMALARISorunlar ve Öneriler / YMM BURHAN GÜNDOĞDU 
+
 ## Ankara YMMO e-semineri
 
 Ankara YMM Odası e seminer. 
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzMDg4OTYzLDc1NTAyOTkyMCwtNjg2ND
-Y0ODAsNDE1NzAwMTMxXX0=
+eyJoaXN0b3J5IjpbLTQ3Mzc3NDg2OSw3NTUwMjk5MjAsLTY4Nj
+Q2NDgwLDQxNTcwMDEzMV19
 -->
