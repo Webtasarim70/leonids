@@ -7,7 +7,7 @@ comments: true
 tags: [KDV iade,  KDV iadesi,  e-YMM raporu,  e-YMM,  YMM rapor Gönderimi]
 
 ---
-internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar için okuyun >>
+internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar toplamaya çalıştım. 
 
 ![e ymm logoso](https://intvrg.gib.gov.tr/ymmside/sf/img/e-ymm-logo.jpg)
 
@@ -62,9 +62,9 @@ karşılaşılan sorunlar e seminer
 
 [video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ0OTAzNjQsLTUxMjA2OTk0MiwtNj
-UwMTk4Mjk0LC0xMjE2MzU3MDkyLDE3MTI1NjUwNTQsNDE3OTQ0
-NTA5LDg0MzI1NDEyMywxMjAwODkzNjUwLDE0MDQ3NTI2NjksLT
-I5MDQ1ODkyOSwtMTIwNTUwNTM4OSw3NTUwMjk5MjAsLTY4NjQ2
-NDgwLDQxNTcwMDEzMV19
+eyJoaXN0b3J5IjpbLTMyNzI0Mjk4NiwtMTcxNDQ5MDM2NCwtNT
+EyMDY5OTQyLC02NTAxOTgyOTQsLTEyMTYzNTcwOTIsMTcxMjU2
+NTA1NCw0MTc5NDQ1MDksODQzMjU0MTIzLDEyMDA4OTM2NTAsMT
+QwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1NTA1Mzg5LDc1NTAy
+OTkyMCwtNjg2NDY0ODAsNDE1NzAwMTMxXX0=
 -->
