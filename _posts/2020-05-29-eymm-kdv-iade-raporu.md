@@ -19,8 +19,8 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
  - v1 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
  
  ### e ymm tam tasdik raporlarına ait teknik klavuz 
- - v3 14.11.2019
- - v2 14.06.2019
+ - v3 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
+ - v2 14.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
  - v1 10.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
 
 ## İstanbul YMMO sunum 18 12 2019
@@ -37,6 +37,6 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTA4NDk5MywtMTIwNTUwNTM4OSw3NT
+eyJoaXN0b3J5IjpbLTE0MjI3MjIzNCwtMTIwNTUwNTM4OSw3NT
 UwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
 -->
