@@ -44,6 +44,10 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+karşılaşılan sorunlar e seminer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xx1AYuZdc9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## İzmir YMMO seminer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-LOQ0BiTM-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -52,7 +56,8 @@ Ankara YMM Odası e seminer.
 - 1. kısım [linki](https://www.youtube.com/watch?v=yPWFWbk6iGw)
 - 2. kısım [linki](https://www.youtube.com/watch?v=-LOQ0BiTM-U&t=1s)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3OTQ0NTA5LDg0MzI1NDEyMywxMjAwOD
-kzNjUwLDE0MDQ3NTI2NjksLTI5MDQ1ODkyOSwtMTIwNTUwNTM4
-OSw3NTUwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
+eyJoaXN0b3J5IjpbLTg4MDEyMTEzNyw0MTc5NDQ1MDksODQzMj
+U0MTIzLDEyMDA4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5
+LC0xMjA1NTA1Mzg5LDc1NTAyOTkyMCwtNjg2NDY0ODAsNDE1Nz
+AwMTMxXX0=
 -->
