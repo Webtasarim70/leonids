@@ -4,7 +4,7 @@ title:  "E YMM KDV iadesi Raporu Gönderimi"
 date:   2020-05-18 12:58:57
 categories: [KDV iade]
 comments: true
-tags: "KDV iade" "KDV iadesi" "e-YMM raporu" "e-YMM" "YMM rapor Gönderimi"
+tags: KDV iade KDV iadesi e-YMM raporu e-YMM YMM rapor Gönderimi 
 
 ---
 internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynaklar için okuyun >>
@@ -62,8 +62,8 @@ karşılaşılan sorunlar e seminer
 
 [video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYzNTcwOTIsMTcxMjU2NTA1NCw0MT
-c5NDQ1MDksODQzMjU0MTIzLDEyMDA4OTM2NTAsMTQwNDc1MjY2
-OSwtMjkwNDU4OTI5LC0xMjA1NTA1Mzg5LDc1NTAyOTkyMCwtNj
-g2NDY0ODAsNDE1NzAwMTMxXX0=
+eyJoaXN0b3J5IjpbLTY1MDE5ODI5NCwtMTIxNjM1NzA5MiwxNz
+EyNTY1MDU0LDQxNzk0NDUwOSw4NDMyNTQxMjMsMTIwMDg5MzY1
+MCwxNDA0NzUyNjY5LC0yOTA0NTg5MjksLTEyMDU1MDUzODksNz
+U1MDI5OTIwLC02ODY0NjQ4MCw0MTU3MDAxMzFdfQ==
 -->
