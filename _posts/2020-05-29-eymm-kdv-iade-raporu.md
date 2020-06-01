@@ -13,7 +13,9 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 <!--more-->
 ## Teknik Klavuz
 
-## İstanbul YMMO s
+## İstanbul YMMO sunum 18 12 2019
+[sunum linki ](http://www.istanbulymmo.org.tr/dosyalar/sunumlar/20191218mehmetyildiz.pdf)
+e-YMM KDV İadesi Tasdik Raporu / YMM. Mehmet YILDIZ / 18 Aralık 2019, İstanbul YMM Odası
 
 ## Ankara YMMO e-semineri
 
@@ -21,6 +23,6 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzI4NDc1Nyw3NTUwMjk5MjAsLTY4Nj
-Q2NDgwLDQxNTcwMDEzMV19
+eyJoaXN0b3J5IjpbNjUzMDg4OTYzLDc1NTAyOTkyMCwtNjg2ND
+Y0ODAsNDE1NzAwMTMxXX0=
 -->
