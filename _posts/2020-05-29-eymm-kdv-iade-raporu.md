@@ -25,7 +25,7 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
  - v2 12.12.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
  - v1 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
  
- ### e ymm tam tasdik raporlarına ait teknik klavuz 
+### e ymm tam tasdik raporlarına ait teknik klavuz 
  - v3 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
  - v2 14.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
  - v1 10.06.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tam_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
@@ -62,9 +62,10 @@ karşılaşılan sorunlar e seminer
 
 [video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzI0Mjk4NiwtMTcxNDQ5MDM2NCwtNT
-EyMDY5OTQyLC02NTAxOTgyOTQsLTEyMTYzNTcwOTIsMTcxMjU2
-NTA1NCw0MTc5NDQ1MDksODQzMjU0MTIzLDEyMDA4OTM2NTAsMT
-QwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1NTA1Mzg5LDc1NTAy
-OTkyMCwtNjg2NDY0ODAsNDE1NzAwMTMxXX0=
+eyJoaXN0b3J5IjpbLTE4NjYzMTg5MjQsLTMyNzI0Mjk4NiwtMT
+cxNDQ5MDM2NCwtNTEyMDY5OTQyLC02NTAxOTgyOTQsLTEyMTYz
+NTcwOTIsMTcxMjU2NTA1NCw0MTc5NDQ1MDksODQzMjU0MTIzLD
+EyMDA4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1
+NTA1Mzg5LDc1NTAyOTkyMCwtNjg2NDY0ODAsNDE1NzAwMTMxXX
+0=
 -->
