@@ -12,7 +12,12 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 
 <!--more-->
 ## Teknik Klavuz
+
+### e
  - v3 02.04.2020 [teknik klavuz / GİB ](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
+ - v2 12.12.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
+ - v1 14.11.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v1.pdf)
+ - 
 
 ## İstanbul YMMO sunum 18 12 2019
 [sunum linki ](http://www.istanbulymmo.org.tr/dosyalar/sunumlar/20191218mehmetyildiz.pdf)
@@ -28,6 +33,6 @@ Ankara YMM Odası e seminer.
 [youtube linki](https://www.youtube.com/watch?v=Hg64B7g7i64)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjQ4MTA5MSwtMTIwNTUwNTM4OSw3NT
+eyJoaXN0b3J5IjpbMTk5Nzg5MjQ4MywtMTIwNTUwNTM4OSw3NT
 UwMjk5MjAsLTY4NjQ2NDgwLDQxNTcwMDEzMV19
 -->
