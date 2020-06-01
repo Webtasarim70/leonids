@@ -45,6 +45,7 @@ Ankara YMM Odası e seminer.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg64B7g7i64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 karşılaşılan sorunlar e seminer
+[youtube linki](https://www.youtube.com/watch?v=xx1AYuZdc9c)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xx1AYuZdc9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -62,7 +63,7 @@ karşılaşılan sorunlar e seminer
 
 [video linki](https://www.youtube.com/watch?v=jQHdrnhXxoc) / [Dt-Audit Denetim Kütüphanesi](https://www.youtube.com/channel/UCy6XuNoh4Cnl8z9j74Dh7XA)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjYzMTg5MjQsLTMyNzI0Mjk4NiwtMT
+eyJoaXN0b3J5IjpbLTEwNjg1MTM3MTIsLTMyNzI0Mjk4NiwtMT
 cxNDQ5MDM2NCwtNTEyMDY5OTQyLC02NTAxOTgyOTQsLTEyMTYz
 NTcwOTIsMTcxMjU2NTA1NCw0MTc5NDQ1MDksODQzMjU0MTIzLD
 EyMDA4OTM2NTAsMTQwNDc1MjY2OSwtMjkwNDU4OTI5LC0xMjA1
