@@ -20,6 +20,10 @@ internet ortamıda e YMM raporlarının gönderilmesine ilişkin faydalı kaynak
 
 ## Yayınlanmış Teknik Klavuz
 
+### duyurular
+ - duyuru: 08.07.2020 [Var Olan Rapordan Yeni Rapor Üretmeye ilişkin açıklamalar](https://intvrg.gib.gov.tr/ymmrapor/Rapor_Uretme_Duyurusu.doc)
+ - duyuru:24.06.2020 [702/Dahilde İşlem İzin Belgesi Kapsamında düzenlenecek raporlarda dikkat edilmesi gereken hususlar](https://intvrg.gib.gov.tr/ymmrapor/DIIB_Duyuru.doc)
+ 
 ### e ymm tasdik raporlara ait teknik klavuz
  - v3 02.04.2020 [teknik klavuz / GİB ](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v3.pdf)
  - v2 12.12.2019 [link](https://intvrg.gib.gov.tr/ymmrapor/e-YMM_Tasdik_Raporu_Teknik_Kilavuz_v2.pdf)
